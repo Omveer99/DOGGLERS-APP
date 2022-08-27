@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/activity_vertical_list.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/activity_vertical_list.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/grid_list_item.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/grid_list_item.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/activity_horizontal_list.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/activity_horizontal_list.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/vertical_horizontal_list_item.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/list_item.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/activity_grid_list.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/activity_grid_list.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.dogglers.app-main-31:/layout/activity_main.xml"
+    }
+]
